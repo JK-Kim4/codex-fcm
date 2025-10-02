@@ -1,0 +1,22 @@
+:root {
+  font-family: 'Pretendard', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #1f2937;
+  background-color: #f8fafc;
+  color-scheme: light;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: linear-gradient(180deg, #f1f5f9 0%, #ffffff 100%);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  color: inherit;
+}
